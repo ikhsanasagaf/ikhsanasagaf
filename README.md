@@ -11,11 +11,6 @@
 
 <h1 align="center">Halo, Hello, Hola, Nǐ hǎo, Ciao 👋</h1>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ikhsanasagaf/count.svg?"  />
-</div>
 
 ###
 
