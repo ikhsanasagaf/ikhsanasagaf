@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hey there, I'm Ikhsan or you can call me Icun. Junior Data Scientist and Machine Learning Engineer. Also very interested in Web Development. Have the ability to adapt quickly and be a fast-learner in information technology. With great pleasure to work together in building projects.<br><br>-
+<p align="left">Hey there, I'm Ikhsan or you can call me Icun. Junior Data Scientist and Machine Learning Engineer. Also very interested in Web Development. Have the ability to adapt quickly and be a fast-learner in information technology. With great pleasure to work together in building projects.
   
 <h3 align="left">🛠 Language and tools</h3>
 
