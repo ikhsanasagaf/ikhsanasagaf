@@ -18,8 +18,7 @@
 
 ###
 
-<p align="left">Hey there, I'm Ikhsan or you can call me Icun. I'm Undergraduate Informatics Engineering Student at Dian Nuswantoro University. Fast Learner in the IT Field, and very interested in Web Development.<br><br>- 📚 I'm currently learning Full-Stack Web Development<br>- ⚡ I'm also Machine Learning enthusiast</p>
-
+<p align="left">Hey there, I'm Ikhsan or you can call me Icun. Junior Data Scientist and Machine Learning Engineer. Also very interested in Web Development. Have the ability to adapt quickly and be a fast-learner in information technology. With great pleasure to work together in building projects.<br><br>- 📚
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
